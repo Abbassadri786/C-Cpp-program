@@ -17,7 +17,7 @@
 
 // <script 
 //  id= "chatbot-main-script"
-//  embedToken="Enter Embed Token here"
+//  embedToken="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvcmdfaWQiOiIxMzYyNyIsImNoYXRib3RfaWQiOiI2N2M3M2Y0YzhhNmZmMzFmOTgxOGU2OTMiLCJ1c2VyX2lkIjoiMTM0NDYiLCJ2YXJpYWJsZXMiOnt9LCJpYXQiOjE3NDIwMzY4MzV9.EPBWj73ezuE16Ks7A-HPz6rQE0mPusMKbn6wKTQP1wQ"
 //  src="https://chatbot-embed.viasocket.com/chatbot-prod.js"
 // </script>
 
